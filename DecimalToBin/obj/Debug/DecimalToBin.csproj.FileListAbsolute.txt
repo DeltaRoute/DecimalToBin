@@ -1,0 +1,6 @@
+C:\Programming\DecimalToBin\DecimalToBin\bin\Debug\DecimalToBin.exe
+C:\Programming\DecimalToBin\DecimalToBin\bin\Debug\DecimalToBin.pdb
+C:\Programming\DecimalToBin\DecimalToBin\obj\Debug\DecimalToBin.csproj.AssemblyReference.cache
+C:\Programming\DecimalToBin\DecimalToBin\obj\Debug\DecimalToBin.csproj.CoreCompileInputs.cache
+C:\Programming\DecimalToBin\DecimalToBin\obj\Debug\DecimalToBin.exe
+C:\Programming\DecimalToBin\DecimalToBin\obj\Debug\DecimalToBin.pdb
